@@ -1,1 +1,1 @@
-# aerialcore_cvml_msgs
+# AerialCore CVML ROS messages
