@@ -10,9 +10,9 @@ Header header
 int32 joint_id
 
 # Camera-centered coordinates of body joint
-int32 x
-int32 y
-int32 z
+float32 x
+float32 y
+float32 z
 
 # Detection confidence
 float32 score
